@@ -1,0 +1,10 @@
+# Never commit real employee data, credentials or runtime files
+*.xlsx
+*.xlsm
+*.csv
+*.zip
+*.json
+*.env
+.env*
+.streamlit/secrets.toml
+__pycache__/
